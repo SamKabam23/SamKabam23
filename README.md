@@ -26,7 +26,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: </h2>
 
 [<img align="left" alt="JoshMadakor | Instagram," width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,4 +39,4 @@
 [linkedin]: https://linkedin.com/in/samarth-bikki-561852238/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SamKabam23/SamKabam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
