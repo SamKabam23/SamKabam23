@@ -3,35 +3,30 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi-function Discord Bot in Python](https://github.com/SamKabam23/pythonDiscordBot)
 - <b>Java Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Multi-step Guessing Game in Java](https://github.com/SamKabam23/javaGuessingGame) <b><i></b></i>
 - <b>Apps</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Currently being developed, source code will be released soon!]
 - <b>Personal Website!</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Samarth Bikki's Personal Website with HTML, JS, and CSS](https://github.com/SamKabam23/Samarth-s-Website)
 - <b>Other</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Patchwork](https://github.com/SamKabam23/patchwork)
 
 <h2>📺 Small YouTube Videos/Extras</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Chess Game Replay (Against Higher Rated Player](https://www.youtube.com/watch?v=mzEwVMvobVY&t=3s)
+- [Agario Video 1](https://www.youtube.com/watch?v=b8iWDsM9S5g&t=89s)
+- [Agario Video 2](https://www.youtube.com/watch?v=_FBvLlZLmvU&t=468s)
+- [Agario Video 3](https://www.youtube.com/watch?v=vXTc1vkHag0&t=125s)
+- [Funny Minecraft Video](https://www.youtube.com/watch?v=blSpcphFlwA)
 
 <h2> 🤳 Connect with me: </h2>
 
-[<img align="left" alt="JoshMadakor | Instagram," width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SamKabam23 | Instagram," width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SamKabam23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SamKabam23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SamKabam23 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [twitter]: https://twitter.com/SamKabam14
 [youtube]: https://www.youtube.com/channel/UCT3Tt7v1wHvl3x3HEToqvCg
