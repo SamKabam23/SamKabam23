@@ -1,4 +1,4 @@
-![gif](standard (2).png)
+
 
 <h1 align="center">Hi 👋, I'm Samarth Bikki</h1>
 <h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is <br obsessed br>with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. </h3>
