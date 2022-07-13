@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Samarth Bikki</h1>
-<h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science</h3>
-
+<h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is <br obsessed br>with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkabam23&label=Profile%20views&color=0e75b6&style=flat" alt="samkabam23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samkabam14" target="blank"><img src="https://img.shields.io/twitter/follow/samkabam14?logo=twitter&style=for-the-badge" alt="samkabam14" /></a> </p>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m currently learning **how to make iOS and macOS Apps**
 
@@ -18,6 +19,10 @@
 - 📫 Reach me **[here](bikkisamarth@gmail.com)**
 
 - ⚡ Fun fact - **I am a hurdler in Track and Field**
+
+- 🧳 Experiences - On my Linkedin
+
+<img align="right"  heigth ="100%" src = "https://github.com/vickyrules/userContents/blob/main/animation_300_l0l5ydos.gif" >
 
 <h2>👨‍💻 Programming Projects:</h2>
 
@@ -32,18 +37,17 @@
 - <b>Other</b>
   - [Patchwork](https://github.com/SamKabam23/patchwork)
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samkabam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samkabam14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samarth bikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth bikki" height="30" width="40" /></a>
-<a href="https://fb.com/samarth bikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samarth bikki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarth-bikki-561852238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth bikki" height="30" width="40" /></a>
+<a href="https://www.facebook.com/samarth.bikki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samarth bikki" height="30" width="40" /></a>
 <a href="https://instagram.com/samkabam23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samkabam23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sam b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sam b" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCT3Tt7v1wHvl3x3HEToqvCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sam b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bikkisamarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikkisamarth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samkabam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samkabam" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ZQyvJHcYP9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZQyvJHcYP9" height="30" width="40" /></a>
+  
 </p>
 
 
@@ -57,14 +61,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samkabam23&" alt="samkabam23" /></p>
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamKabam23&theme=react-dark)
+
 <h2>📺 Small YouTube Videos/Extras</h2>
 
 - [Chess Game Replay (Against Higher Rated Player](https://www.youtube.com/watch?v=mzEwVMvobVY&t=3s)
 - [Agario Video 1](https://www.youtube.com/watch?v=b8iWDsM9S5g&t=89s)
 - [Agario Video 2](https://www.youtube.com/watch?v=_FBvLlZLmvU&t=468s)
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - [Agario Video 3](https://www.youtube.com/watch?v=vXTc1vkHag0&t=125s)
 - [Funny Minecraft Video](https://www.youtube.com/watch?v=blSpcphFlwA)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
