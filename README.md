@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available **[here](https://github.com/SamKabam23?tab=repositories)**
 
-- 💬 Ask me about **coding problems if you want!**
+- 💬 Ask me about **coding problems if you need help or need to learn a concept!**
 
 - 📫 Reach me **[here](bikkisamarth@gmail.com)**
 
