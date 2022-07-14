@@ -31,6 +31,7 @@
   - [Multi-function Discord Bot in Python](https://github.com/SamKabam23/pythonDiscordBot)
 - <b>Java Projects</b>
   - [Multi-step Guessing Game in Java](https://github.com/SamKabam23/javaGuessingGame) <b><i></b></i>
+  - [Personal Sudoku Solver](https://github.com/SamKabam23/SudokuSolver) 
 - <b>Apps</b>
   - [Currently being developed, source code will be released soon!]
 - <b>Personal Website!</b>
