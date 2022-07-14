@@ -1,4 +1,4 @@
-
+<a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Samarth Bikki</h1>
 <h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is obsessed with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. </h3>
