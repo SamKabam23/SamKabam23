@@ -29,6 +29,7 @@
 
 - <b>Python Projects</b>
   - [Multi-function Discord Bot in Python](https://github.com/SamKabam23/pythonDiscordBot)
+  - [Self-Made Uno Game](https://github.com/SamKabam23/Self-Made-Uno-Game-)
 - <b>Java Projects</b>
   - [Multi-step Guessing Game in Java](https://github.com/SamKabam23/javaGuessingGame) <b><i></b></i>
   - [Personal Sudoku Solver](https://github.com/SamKabam23/SudokuSolver) 
