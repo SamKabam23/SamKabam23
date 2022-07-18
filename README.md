@@ -35,6 +35,8 @@
   - [Personal Sudoku Solver](https://github.com/SamKabam23/SudokuSolver) 
 - <b>Apps</b>
   - [Currently being developed, source code will be released soon!]
+- <b>Hackathons</b>
+  - [2022 Tech Optimum Hackathon](https://github.com/Rav4s/tech-optimum-2022-hackathon)
 - <b>Personal Website!</b>
   - [Samarth Bikki's Personal Website with HTML, JS, and CSS](https://github.com/SamKabam23/Samarth-s-Website)
 - <b>Other</b>
