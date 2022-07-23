@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Samarth Bikki</h1>
-<h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is obsessed with <b>development</b> and always looking to find new solutions for <b> websites </b> to learn and develop. </h3>
+<h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is obsessed with <b>development</b> and always looking to find new solutions and techniques for <b> websites </b> to learn and develop. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkabam23&label=Profile%20views&color=0e75b6&style=flat" alt="samkabam23" /> </p>
 
