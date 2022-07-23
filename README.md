@@ -40,6 +40,7 @@
 - <b>Personal Website!</b>
   - [Samarth Bikki's Personal Website with HTML, JS, and CSS](https://github.com/SamKabam23/Samarth-s-Website)
 - <b>Other</b>
+  - [Competitive Multiplayer Maze Game](https://github.com/SamKabam23/Competitive-Multiplayer-Maze-Game)
   - [Patchwork](https://github.com/SamKabam23/patchwork)
 
 <h3 align="left">Connect with me:</h3>
