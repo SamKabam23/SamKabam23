@@ -72,7 +72,7 @@
 <h2>📺 Small YouTube Videos/Extras</h2>
 
 - [2022 Tech Optimum Hackathon](https://www.youtube.com/watch?v=3g14HmoC_hI)
-- [Chess Game Replay (Against Higher Rated Player](https://www.youtube.com/watch?v=mzEwVMvobVY&t=3s)
+- [Chess Game Replay (Against Higher Rated Player)](https://www.youtube.com/watch?v=mzEwVMvobVY&t=3s)
 - [Agario Video 1](https://www.youtube.com/watch?v=b8iWDsM9S5g&t=89s)
 - [Agario Video 2](https://www.youtube.com/watch?v=_FBvLlZLmvU&t=468s)
 
