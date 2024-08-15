@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Samarth Bikki</h1>
-<h3 align="center">A passionate software developer from Texas, aspiring to major in Computer Science who is obsessed with <b>development</b> and always looking to find new solutions and techniques for <b> websites </b> to learn and develop. </h3>
+<h3 align="center">Aspiring Software Engineer majoring in Computer Science with a passion for cloud computing, AI, and developing scalable, resilient applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkabam23&label=Profile%20views&color=0e75b6&style=flat" alt="samkabam23" /> </p>
 
@@ -9,9 +9,9 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I’m currently learning **how to make iOS and macOS Apps**
+- 🌱 Currently enhancing my skills in **cloud-native development, CI/CD pipelines, and system resiliency**.
 
-- 👯 I’m looking to collaborate on **Python, Java, HTML, JS, or CSS projects**
+- 👯 I’m looking to collaborate on **Python, Go, JS, or Java projects**
 
 - 👨‍💻 All of my projects are available **[here](https://github.com/SamKabam23?tab=repositories)**
 
